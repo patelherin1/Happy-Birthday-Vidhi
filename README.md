@@ -32,10 +32,10 @@
                     <div id="code">
                       <span class="say"> Happiest Birthday  </span><br>
                       <span class="say">My Beautiful🫀 </span><br>             
-                      <span class="say">I'LL GIVE YOU</span><br>
-                      <span class="say">ALL THE LOVE🥰</span><br>
-                      <span class="say">THAT ONE CAN💕</span><br>
-                      <span class="say">Your @techeonn🫶! </span><br>
+                      <span class="say">My little panda🐼</span><br>
+                      <span class="say">MY LOVE💗💓</span><br>
+                      <span class="say">UR MY CLOSEST EVER🫶</span><br>
+                      <span class="say">Your Bunny </span><br>
                       <span class="say"><span class="space"></span></span> </font>
                           <br />
                           <br />
